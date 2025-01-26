@@ -19,15 +19,15 @@ const messages = [
     "serius",
     "ini",
     "terakhir",
-    "tapi bohong hehe yahaha hayyuk",
-    "aku tau pasti kamu kesal",
+    "tapi bohong muehehe",
+    "aku tau pasti kamu sebel",
     "hmm",
     "yaudah deh",
     "padahal",
-    "aku cuma mau bilang",
-    "kepasar beli terasi pulangnya makan kadal",
+    "aku mau pantun",
+    "jalan jalan naik perahu",
     "i love you❤️",
-    "bjiirlah",
+    "muehehehe",
     "coba pencet tombol dibawah ini 💝"
 ];
 
